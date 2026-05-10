@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "pnotify": "file:../../",
-    "rollup": "^0.59.1",
+    "rollup": "^0.68.0",
     "rollup-plugin-node-resolve": "^3.3.0"
   }
 }
