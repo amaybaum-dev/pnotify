@@ -14,6 +14,6 @@
   "devDependencies": {
     "pnotify": "file:../../",
     "rollup": "^0.59.1",
-    "rollup-plugin-node-resolve": "^3.3.0"
+    "@rollup/plugin-node-resolve": "^6.0.0"
   }
 }
